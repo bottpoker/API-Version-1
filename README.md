@@ -751,7 +751,6 @@ Name | MinLength | Required | Default | Description
 limit |  | NO | 10 | 
 page |  | NO | 1 | 
 
-
 ## User API Limits
 User API Limits for your account.
 
