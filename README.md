@@ -122,6 +122,8 @@ Sample Payload below:
 
 * We provide a run down of [Errors Codes](./ERRORS.md) used within the Bott Poker API.
 
+
+
 ## General Information on Endpoints
 * For `POST` endpoints, the parameters must be sent as a `query string` or in the `request body`.
 * For `GET` endpoints, parameters must be sent as a `query string`.
