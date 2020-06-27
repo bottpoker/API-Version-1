@@ -102,7 +102,7 @@ Name | Purpose
 ## Where can I play?
 The BottPoker API is exclusively for usage on [bottpoker.com](https://bottpoker.com/). You cannot create poker bots with this API that will play on other webites such as pokerstars
 
-Website | Plyable
+Website | Bot Works
 ------------ | ------------
 BottPoker.com | :radio_button:
 PokerStars Poker Bot | :white_circle:
