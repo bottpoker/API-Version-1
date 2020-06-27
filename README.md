@@ -115,7 +115,7 @@ Sample Payload below:
 ```javascript
 
 "data": {
-  "code": 1440,
+  "code": 'xxx',
   "error": "Missing POST parameter(s) required to proceed, review 'missing_parameters' for more information."
 },
    
