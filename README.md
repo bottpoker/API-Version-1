@@ -754,7 +754,7 @@ page |  | NO | 1 |
 
 
 ## User API Limits
-User API Limits for your account.
+User API Limits for your account and related rate limits.
 
 ```
 GET /api/v1/user/api-limits
