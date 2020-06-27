@@ -4,6 +4,7 @@
 **Table of Contents**
 
 - [General Information](#general-information)
+- [Where can I play?](#where-can-i-play)
 - [HTTP Return Codes](#http-return-codes)
 - [Error Codes](#error-codes)
 - [Endpoint Information](#general-information-on-endpoints)
@@ -89,7 +90,6 @@ Name | Purpose
 [PAYOUT-MECHANICS.md](./PAYOUT-MECHANICS.md) | Information on how the payouts for `SNG` and `TRN` game types are calculated
 [RAISING-GUIDELINES.md](./RAISING-GUIDELINES.md) | Information on how the engine deals with users raising
 
-
 ## General Information
 
 * There are  **`56 endpoints`**.
@@ -98,6 +98,26 @@ Name | Purpose
 * All endpoints return only a JSON object.
 * Data returned is limited by default to 10 rows and page 1 in descending order (newest first).
 * Timestamp fields vary and are labeled to their corresponding contents of **milliseconds** or **time**
+
+## Where can I play?
+The BottPoker API is exclusively for usage on [bottpoker.com](https://bottpoker.com/). You cannot create poker bots with this API that will play on other webites such as pokerstars
+
+Website | Plyable
+------------ | ------------
+BottPoker.com | [x]
+PokerStars Poker Bot | []
+Ignition Poker Bot | []
+Intertops Poker Bot | []
+Bovada Poker Bot | []
+BetOnline Poker Bot | []
+888 Poker Bot | []
+Party Poker Bot | []
+Unibet Poker Bot | []
+Pacific Poker Bot | []
+Odds Poker Bot | []
+Carbon Poker Bot | []
+
+There are **zero** plans for any expansion of the poker bot to work on any of the sites in the table. BottPoker is built for play on BottPoker.com where we embrace and invite talented developers to make winning poker bots that can compete against other developers bots.
 
 ## HTTP Return Codes
 
@@ -754,7 +774,7 @@ page |  | NO | 1 |
 
 
 ## User API Limits
-User API Limits for your account and related rate limits.
+User API Limits for your account.
 
 ```
 GET /api/v1/user/api-limits
@@ -776,6 +796,7 @@ Name | MinLength | Required | Default | Description
 limit |  | NO | 10 | 
 page |  | NO | 1 | 
 bot_id |  | NO |  | Filter bots
+
 
 
 ## List Violations
