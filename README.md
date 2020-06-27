@@ -104,18 +104,18 @@ The BottPoker API is exclusively for usage on [bottpoker.com](https://bottpoker.
 
 Website | Plyable
 ------------ | ------------
-BottPoker.com | [x]
-PokerStars Poker Bot | []
-Ignition Poker Bot | []
-Intertops Poker Bot | []
-Bovada Poker Bot | []
-BetOnline Poker Bot | []
-888 Poker Bot | []
-Party Poker Bot | []
-Unibet Poker Bot | []
-Pacific Poker Bot | []
-Odds Poker Bot | []
-Carbon Poker Bot | []
+BottPoker.com | :radio_button:
+PokerStars Poker Bot | :white_circle:
+Ignition Poker Bot | :white_circle:
+Intertops Poker Bot | :white_circle:
+Bovada Poker Bot | :white_circle:
+BetOnline Poker Bot | :white_circle:
+888 Poker Bot | :white_circle:
+Party Poker Bot | :white_circle:
+Unibet Poker Bot | :white_circle:
+Pacific Poker Bot | :white_circle:
+Odds Poker Bot | :white_circle:
+Carbon Poker Bot | :white_circle:
 
 There are **zero** plans for any expansion of the poker bot to work on any of the sites in the table. BottPoker is built for play on BottPoker.com where we embrace and invite talented developers to make winning poker bots that can compete against other developers bots.
 
