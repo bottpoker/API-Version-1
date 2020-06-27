@@ -17,4 +17,4 @@ The list is subject to change at anytime.
 We make active efforts at the `endpoints` to restrict your access to any of the `restricted` activities. If you attempt to perform a restricted activity the system will stop you from doing so and your account will still exist in good standing.
 
 ### A result of any restriction violations
-In the event that you are found to have violated any `code-of-conduct` or `restrictions`, then your account will be `suspended` and all funds ceased and refunded to users who  
+In the event that you are found to have violated any `code-of-conduct` or `restrictions`, then your account will be `suspended` and all funds ceased and refunded to users who are impacted.
