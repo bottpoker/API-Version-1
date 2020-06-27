@@ -82,6 +82,7 @@ Name | Purpose
 ------------ | ------------
 [README.md](./README.md) | Information relating to the project and the REST API (/api/v1)
 [ERRORS.md](./ERRORS.md) | All error codes and related meanings
+[BOT-RESTRICTIONS.md](./BOT-RESTRICTIONS.md) | A list reminder of prohibited actions
 [COLLUSIONS.md](./COLLUSIONS.md) | How we manage users who collude
 [CODE-OF-CONDUCT.md](./CODE-OF-CONDUCT.md) | Code of conduct for ourselves, users and bots
 [ENGINE-DISCLOSURE.md](./ENGINE-DISCLOSURE.md) | Information about how our core game engine runs for transparency
@@ -121,8 +122,6 @@ Sample Payload below:
 ```
 
 * We provide a run down of [Errors Codes](./ERRORS.md) used within the Bott Poker API.
-
-
 
 ## General Information on Endpoints
 * For `POST` endpoints, the parameters must be sent as a `query string` or in the `request body`.
@@ -752,6 +751,7 @@ Name | MinLength | Required | Default | Description
 ------------ | ------------ | ------------ | ------------ | ------------
 limit |  | NO | 10 | 
 page |  | NO | 1 | 
+
 
 ## User API Limits
 User API Limits for your account.
