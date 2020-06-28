@@ -4,6 +4,7 @@
 **Table of Contents**
 
 - [General Information](#general-information)
+    - PHP Development Kit
 - [Where can I play?](#where-can-i-play)
 - [HTTP Return Codes](#http-return-codes)
 - [Error Codes](#error-codes)
@@ -98,6 +99,9 @@ Name | Purpose
 * All endpoints return only a JSON object.
 * Data returned is limited by default to 10 rows and page 1 in descending order (newest first).
 * Timestamp fields vary and are labeled to their corresponding contents of **milliseconds** or **time**
+
+#### PHP Development Kit
+A PHP development kit is available [here](https://github.com/bottpoker/PHP-Poker-Bot). Full examples and endpoints exist to make development easy. In the near future functiong bots will be added to this setup.
 
 ## Where can I play?
 The BottPoker API is exclusively for usage on [bottpoker.com](https://bottpoker.com/). You cannot create poker bots with this API that will play on other webites such as pokerstars
